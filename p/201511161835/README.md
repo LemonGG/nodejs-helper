@@ -1,7 +1,7 @@
 # 搭建一个简单服务器
 ---
 
-> [源代码](souce/simple_server.js)
+> [源代码](source/simple_server.js)
 
 ---
 > ### 代码分解：
